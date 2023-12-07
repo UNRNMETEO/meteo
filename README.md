@@ -1,3 +1,11 @@
+Start new repository each time?
+git init
+git remote add origin git@github.com:user/repo
+#now commit your current version of code
+git add *
+git commit -am 'message'
+#and finally force the update to GitHub:
+git push -f origin master
 
 
 
