@@ -128,3 +128,6 @@ Reuniones 2do Cuatrimestre 2022:
 10/11/23
   - Se arreglaron varios códigos que se habian copiado mal al clonar el repositorio desde la cuenta nueva.
   - Se cambió la frecuencia con la cual se hacen 'push' al repositorio ya que según se averiguó se pueden hacer hasta 10 push por hora para actualizar los datos con la información meteorológica actualizada.
+
+27/12/23
+  - Se comentaron las líneas de código del contador de visitas debido a que depende de una página externa que tiene problemas de seguridad luego de una actualización.
